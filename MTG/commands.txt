@@ -1,0 +1,20 @@
+Command list:
+help -> Displays this list.
+new library -> Opens a new library, sets fire to the old one.
+exit -> Exits the program.
+
+add card -> Add new card to the library.
+view card-> Views a card and it's edit options.
+delete card -> Deletes a card. (You will choose a card to delete after inputting the command.)
+list cards -> List all cards in library. (You may only edit the cards' traits individually here.)
+
+list packs -> List all packs in library.
+
+list colours -> List all colours in library.
+
+add tag -> Add a new tag to the library.
+list tags -> List all tags in library.
+
+checkup -> Checks the database for missing and orphaned traits.
+
+**above commands only work while ">>". (As in, no previous commands are currently running)
