@@ -10,3 +10,5 @@ A script to find the greatest common denominator given two numbers using euclide
 ## ping pong backup
 A rudimentary game of pong I coded using the pygames library.
 
+## socket
+Some python scripts to ping computers using sockets. First attempt at socket programming.
