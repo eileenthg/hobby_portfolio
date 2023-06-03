@@ -9,3 +9,5 @@ This means that it is possible to summon any id at any interface of the appropri
 IT ALSO MEANS YOU CAN ACCIDENTALLY DELETE AN ID YOU DON'T WANT IN THE CHECKUP MENU, AND THE DELETE MENU
 Be careful.
 
+![19289 Image 1460x744 copie](https://github.com/eileenthg/hobby_portfolio/assets/40307498/187f062f-be42-4b29-8854-584922b9d926)
+![photo_2023-05-22_16-26-45](https://github.com/eileenthg/hobby_portfolio/assets/40307498/76d0b3a1-04c5-4a6b-ad6b-51d32408f263)
